@@ -28,3 +28,9 @@ var reverseListRec = function (head) {
   rev(head, null, ans);
   return ans.head;
 };
+
+let reverseListRec2 = function (head) {
+  rev2(root);
+};
+
+function rev2(head) {}
